@@ -39,6 +39,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 10-In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 🗒️ Bonus Questions
+
 1- Join All The Things - Create a table that has these columns: customer_id, order_date, product_name, price, member (Y/N).
 
 2- Rank All The Things - Based on the table above, add one column: ranking.
