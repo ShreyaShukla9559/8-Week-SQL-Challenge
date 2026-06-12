@@ -1,6 +1,6 @@
 # :fire: 8-Week SQL Challenge
 
-This repository contains my solution for the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) using MS SQL Server.
+This repository contains my solution for the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) using MY SQL Server.
 
 Thanks @DataWithDanny for interesting SQL case studies! :wave:🏻
 
